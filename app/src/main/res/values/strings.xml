@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WildanAdityaP_1202150038_studycase4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="pencari_gambar">Pencari Gambar</string>
+    <string name="list_nama">List Nama Mahasiswa</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="btn_gambar">Klik untuk mencari gambar</string>
+</resources>
